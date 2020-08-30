@@ -7,5 +7,6 @@ class Learning1
     Scanner K = new Scanner(System.in);
     System.out.println("Hey! This is a beginner program. ");
     System.out.println("Hope you like it");
+    system.out.pprintln("Repo added");
   }
 }
